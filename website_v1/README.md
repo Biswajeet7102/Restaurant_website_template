@@ -5,6 +5,18 @@
 - Python 
 - Node.js and npm 
 
+### Install python libraries:
+- flask
+- CORS policy
+
+```bash
+pip install flask
+```
+```bash
+pip install flask-cors
+```
+
+
 ### Setting up the Backend
 
 1. Open a terminal.
